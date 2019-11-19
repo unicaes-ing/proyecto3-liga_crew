@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Avance_Proyecto/1.0.0": {
+        "runtime": {
+          "Avance_Proyecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avance_Proyecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

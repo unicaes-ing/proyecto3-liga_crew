@@ -1,0 +1,11 @@
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\bin\Debug\netcoreapp3.0\Avance_Proyecto.exe
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\bin\Debug\netcoreapp3.0\Avance_Proyecto.deps.json
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\bin\Debug\netcoreapp3.0\Avance_Proyecto.runtimeconfig.json
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\bin\Debug\netcoreapp3.0\Avance_Proyecto.runtimeconfig.dev.json
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\bin\Debug\netcoreapp3.0\Avance_Proyecto.dll
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\bin\Debug\netcoreapp3.0\Avance_Proyecto.pdb
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\obj\Debug\netcoreapp3.0\Avance_Proyecto.csprojAssemblyReference.cache
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\obj\Debug\netcoreapp3.0\Avance_Proyecto.AssemblyInfoInputs.cache
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\obj\Debug\netcoreapp3.0\Avance_Proyecto.AssemblyInfo.cs
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\obj\Debug\netcoreapp3.0\Avance_Proyecto.dll
+C:\Users\rossy\Documents\Visual Studio 2019\Projects\Avance_Proyecto\Avance_Proyecto\obj\Debug\netcoreapp3.0\Avance_Proyecto.pdb
